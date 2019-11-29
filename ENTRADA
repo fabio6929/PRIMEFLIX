@@ -1,13 +1,6 @@
 <channels>
 
 <channel>
-<name>[COLOR blue][B]VIDA [/B][/COLOR][COLOR pink][B]DE [/B][/COLOR][COLOR pink][B]CRI [/B][/COLOR][COLOR orange][B]A [/B][/COLOR][COLOR blue][B]NÇA [/B][/COLOR]</name>
-<thumbnail>http://ap.imagensbrasil.org/images/2018/01/05/thumb-vida-de-crianca.png</thumbnail>
-<externallink>https://pastebin.com/raw/eGHY4KJj</externallink>
-<fanart>http://ap.imagensbrasil.org/images/2018/01/05/capa-infantil.jpg</fanart>
-</channel>
- 
-<channel>
 <name>[COLOR gold][B]FILMES[/B][/COLOR]</name>
 <thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/FUNDO.md.png</thumbnail>
 <externallink>https://pastebin.com/raw/5t3iaJ8b</externallink>
@@ -26,23 +19,7 @@
 <channels>
  
 <channel>
-<name>[COLOR gold][B]ANIMES[/B][/COLOR]</name>
-<thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/animes-fundo.md.png</thumbnail>
-<externallink>https://pastebin.com/raw/Q10Aynhw</externallink>
-<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR gold][B]TOKUSATSU[/B][/COLOR]</name>
-<thumbnail>http://fc00.deviantart.net/fs71/f/2013/019/f/9/tokusatsu___assemble_by_dinshoran-d5rz04x.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
-</channel>
- 
-<channels>
- 
-<channel>
-<name>[COLOR gold][B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR gold][B]INFANTIL[/B][/COLOR]</name>
 <thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/desenhos-fundo.md.png</thumbnail>
 <externallink>https://pastebin.com/raw/E4S3v1DB</externallink>
 <fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
@@ -55,16 +32,5 @@
 <name>[COLOR gold][B]STAND UP[/B][/COLOR]</name>
 <thumbnail>http://ap.imagensbrasil.org/images/2017/11/08/standup-fundo.md.png</thumbnail>
 <externallink>https://pastebin.com/raw/yVYmQKnD</externallink>
-<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
-</channel>
- 
- 
- 
-<channels>
- 
-<channel>
-<name>[COLOR gold][B]AO VIVO[/B][/COLOR]</name>
-<thumbnail>http://ap.imagensbrasil.org/images/2017/11/08/ao-vivo-fundo.md.png</thumbnail>
-<externallink>https://pastebin.com/raw/tv1hPZHs</externallink>
 <fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
 </channel>
