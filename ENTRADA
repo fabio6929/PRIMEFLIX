@@ -1,29 +1,70 @@
 <channels>
+
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON PrimeFLIX[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601408.us.archive.org/16/items/bemvindos_201911/bemvindos.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - Exclusivo para Clientes PrimeTV - [COLOR deeppink]|[/COLOR]</info>
+<name>[COLOR blue][B]VIDA [/B][/COLOR][COLOR pink][B]DE [/B][/COLOR][COLOR pink][B]CRI [/B][/COLOR][COLOR orange][B]A [/B][/COLOR][COLOR blue][B]NÇA [/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2018/01/05/thumb-vida-de-crianca.png</thumbnail>
+<externallink>https://pastebin.com/raw/eGHY4KJj</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2018/01/05/capa-infantil.jpg</fanart>
 </channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+ 
+<channel>
+<name>[COLOR gold][B]FILMES[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/FUNDO.md.png</thumbnail>
+<externallink>https://pastebin.com/raw/5t3iaJ8b</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
+</channel>
+ 
 <channels>
+ 
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601408.us.archive.org/16/items/bemvindos_201911/botaoen</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - Contato Whatssap/Telegram (22)9961-11233 - [COLOR deeppink]|[/COLOR]</info>
+<name>[COLOR gold][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/series-fundo.md.png</thumbnail>
+<externallink>https://pastebin.com/raw/ju0tj1xT</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
 </channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR gold][B]ANIMES[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/animes-fundo.md.png</thumbnail>
+<externallink>https://pastebin.com/raw/Q10Aynhw</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
+</channel>
+ 
+<channel>
+<name>[COLOR gold][B]TOKUSATSU[/B][/COLOR]</name>
+<thumbnail>http://fc00.deviantart.net/fs71/f/2013/019/f/9/tokusatsu___assemble_by_dinshoran-d5rz04x.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
+</channel>
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR gold][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/11/07/desenhos-fundo.md.png</thumbnail>
+<externallink>https://pastebin.com/raw/E4S3v1DB</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
+</channel>
+ 
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR gold][B]STAND UP[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/11/08/standup-fundo.md.png</thumbnail>
+<externallink>https://pastebin.com/raw/yVYmQKnD</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
+</channel>
+ 
+ 
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR gold][B]AO VIVO[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/11/08/ao-vivo-fundo.md.png</thumbnail>
+<externallink>https://pastebin.com/raw/tv1hPZHs</externallink>
+<fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
+</channel>
