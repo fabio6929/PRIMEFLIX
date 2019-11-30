@@ -58,7 +58,7 @@
 </channels><channel>
 <name>[COLOR gold][B]COMÉDIA[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/COMEDIA.jpg</thumbnail>
-<externallink>https://github.com/fabio6929/PRIMEFLIX/blob/master/COMEDIA</externallink>
+<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/COMEDIA</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -69,7 +69,7 @@
 </channels><channel>
 <name>[COLOR gold][B]ROMANCE[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/ROMANCE.png</thumbnail>
-<externallink>https://github.com/fabio6929/PRIMEFLIX/blob/master/ROMANCE</externallink>
+<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/ROMANCE</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
 <info></info>
 </channel>
