@@ -1,17 +1,4 @@
-<layouttype>thumbnail</layouttype>
-
 <channels>
-
-</channels><channel>
-<name>[COLOR yellow][B][I]FILMÃO DA PORRA[/B][/I][/COLOR]</name>
-<thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/thumb-filmao.png</thumbnail>
-<externallink></externallink>
-<fanart>https://static.vix.com/pt/sites/default/files/h/homem-palido-o-labirinto-do-fauno-0517-1400x1000.jpg</fanart>
-<info></info>
-</channel>
-
-<channels>
-
 </channels><channel>
 <name>[COLOR gold][B]LANÇAMENTOS[/B][/COLOR]</name>
 <thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/thumb-lancamento.png</thumbnail>
@@ -25,7 +12,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]DIVERSOS[/B][/COLOR]</name>
+<name>[COLOR gold][B]AÇÃO[/B][/COLOR]</name>
 <thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/thumb-diversos.png</thumbnail>
 <externallink>https://pastebin.com/raw/jVvDW5uf</externallink>
 <fanart>https://jovemnerd.com.br/wp-content/uploads/2017/03/dc-adiantando-filmes-760x428.png</fanart>
@@ -47,7 +34,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]TRILOGIA[/B][/COLOR]</name>
+<name>[COLOR gold][B]AVENTURA[/B][/COLOR]</name>
 <thumbnail>>http://ap.imagensbrasil.org/images/2017/12/10/thumb-trilogia.png</thumbnail>
 <externallink>https://pastebin.com/raw/JKyCxc1p</externallink>
 <fanart>https://depts.washington.edu/nwcenter/wp-content/uploads/2016/09/maxresdefault.jpg</fanart>
@@ -57,7 +44,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]JERRY LEWIS[/B][/COLOR]</name>
+<name>[COLOR gold][B]TERROR[/B][/COLOR]</name>
 <thumbnail>https://1.bp.blogspot.com/-YrSZj4OMfSY/WZxLrY40lwI/AAAAAAACOx8/xZngOVqZIcMS1bv9P42buty412SKYwrpQCLcBGAs/s400/Jerry%2BLewis.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/5YJjn10H</externallink>
 <fanart>http://images.redetv.uol.com.br/public/programas/redetvgeeks/201708201515483oavsfdnJ2.jpg</fanart>
@@ -69,19 +56,32 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]OS TRAPALHÕES[/B][/COLOR]</name>
+<name>[COLOR gold][B]COMÉDIA[/B][/COLOR]</name>
 <thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/THUMB-TRAPALHOES.png</thumbnail>
 <externallink>https://pastebin.com/raw/acENHi8A</externallink>
 <fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/Os-Trapalh%C3%B5es.jpg</fanart>
 <info></info>
 </channel>
 
+
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]MAZZAROPI[/B][/COLOR][COLOR red]BREVE[/COLOR]</name>
-<thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/thumb-mazzaroppi.png</thumbnail>
-<externallink>https://pastebin.com/raw/icyGBDPd</externallink>
-<fanart>https://abrilvejasp.files.wordpress.com/2016/12/mazzaropiabre1.jpg?quality=70&strip=info&w=543&h=316</fanart>
+<name>[COLOR gold][B]ROMANÇE[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/THUMB-TRAPALHOES.png</thumbnail>
+<externallink>https://pastebin.com/raw/acENHi8A</externallink>
+<fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/Os-Trapalh%C3%B5es.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+ 
+</channels><channel>
+<name>[COLOR gold][B]DRAMA[/B][/COLOR]</name>
+<thumbnail>http://ap.imagensbrasil.org/images/2017/12/10/THUMB-TRAPALHOES.png</thumbnail>
+<externallink>https://pastebin.com/raw/acENHi8A</externallink>
+<fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/Os-Trapalh%C3%B5es.jpg</fanart>
 <info></info>
 </channel>
