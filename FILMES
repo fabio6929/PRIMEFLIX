@@ -12,7 +12,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]AÇÃO em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]AÇÃO em breve[/B][/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/12/items/comedia_20191130/ACAO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/ACAOoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -22,7 +22,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]ANIMAÇÕES em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]ANIMAÇÕES em breve[/B][/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/12/items/comedia_20191130/ANIMACAO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/ANIMACOESoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -34,7 +34,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]AVENTURA em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]AVENTURA em breve[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/AVENTURA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/AVENTURAoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -44,7 +44,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]TERROR em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]TERROR em breve[/B][/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/12/items/comedia_20191130/TERROR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/TERRORoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -56,7 +56,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]COMÉDIA em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]COMÉDIA em breve[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/COMEDIA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/COMEDIAoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -67,7 +67,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]ROMANCE em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]ROMANCE em breve[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/ROMANCE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/ROMANCEoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -79,7 +79,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]DRAMA em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]DRAMA em breve[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/DRAMA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/DRAMAoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
@@ -89,7 +89,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]NACIONAL em breve[/B][/COLOR]</name>
+<name>[COLOR red][B]NACIONAL em breve[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/comedia_20191130/NACIONAL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/NACIONALoff</externallink>
 <fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
