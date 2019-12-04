@@ -1,37 +1,10 @@
 <channels>
 
 <channel>
-<name>[COLOR gold][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR gold][B]LANÇAMENTOS[/B][/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/30/items/filmes_20191129/FILMES.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/FILMES</externallink>
+<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/LANCAMENTOS</externallink>
 <fanart>http://ap.imagensbrasil.org/images/2017/11/06/fanart.md.png</fanart>
 </channel>
  
-<channels>
- 
-<channel>
-<name>[COLOR red][B]SERIES em breve[/B][/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/30/items/filmes_20191129/SERIES.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/SERIESoff</externallink>
-<fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
-</channel>
- 
-<channels>
- 
-<channel>
-<name>[COLOR red][B]INFANTIL em breve[/B][/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/30/items/filmes_20191129/INFANTIL.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/INFANTILoff</externallink>
-<fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
-</channel>
- 
- 
-<channels>
- 
-<channel>
-<name>[COLOR red][B]STAND UP em breve[/B][/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/30/items/filmes_20191129/stand-up.jpgoff</thumbnail>
-<externallink>https://raw.githubusercontent.com/fabio6929/PRIMEFLIX/master/STANDUP</externallink>
-<fanart>https://ia801408.us.archive.org/16/items/bemvindos_201911/fanart.jpg</fanart>
-</channel>
- 
+
